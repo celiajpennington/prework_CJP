@@ -1,0 +1,40 @@
+<head>>
+  <style>
+  h1 {
+      text-align: center;
+    }
+    .red {
+        color: red;
+    }
+    .blue {
+        color: blue;
+    }
+    .green {
+        color: green;
+    }
+    .big {
+        font-size: xx-large;
+    }
+    .tiny {
+        font-size: xx-small;
+    }
+    .center {
+        text-align: center;
+    }
+    .bold {
+        font-weight: bold;
+    }
+    .font-family {
+        font-family: arial;  
+}
+    .multiple {
+        font-weight: bold; color: orange; font-size: xx-large;
+    }
+    .styledFont {
+        color: green;
+    }
+    #styledImage {
+        border: yellow; border-width: medium; border-style: solid;
+    }
+  </style>
+</head>  
